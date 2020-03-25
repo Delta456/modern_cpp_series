@@ -3,8 +3,8 @@
 
 int main() {
 
-std::string dir = "C:\User\Home\Folder";  
-std::string special_str = "newline\n"; 
+std::string dir = "C:\\User\\Home\\Folder";
+std::string special_str = "newline\\n";
 
 std::cout << dir << std::endl;
 std::cout << special_str << std::endl;
