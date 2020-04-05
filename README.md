@@ -9,3 +9,4 @@ Code for my Modern C++ Article Series.
 - [Modern C++: `and`, `or` and `not`  as bool operators](https://dev.to/delta456/modern-c-and-or-and-not-as-boolean-operators-2jgf)
 - [Modern C++: `constexpr`](https://dev.to/delta456/modern-c-constexpr-38bk)
 - [Modern C++: Temp Vars in `if`/`switch` statments](https://dev.to/delta456/modern-c-temp-vars-in-if-switch-ig0)
+- [Modern C++: Lambdas](https://dev.to/delta456/modern-c-lambdas-3pjl)
