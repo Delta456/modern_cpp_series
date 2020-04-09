@@ -10,3 +10,4 @@ Code for my Modern C++ Article Series.
 - [Modern C++: `constexpr`](https://dev.to/delta456/modern-c-constexpr-38bk)
 - [Modern C++: Temp Vars in `if`/`switch` statments](https://dev.to/delta456/modern-c-temp-vars-in-if-switch-ig0)
 - [Modern C++: Lambdas](https://dev.to/delta456/modern-c-lambdas-3pjl)
+- [Modern C++: `enum class|struct`](https://dev.to/delta456/modern-c-enum-class-struct-m2f)
