@@ -12,3 +12,4 @@ Code for my Modern C++ Article Series.
 - [Modern C++: Lambdas](https://dev.to/delta456/modern-c-lambdas-3pjl)
 - [Modern C++: `enum class|struct`](https://dev.to/delta456/modern-c-enum-class-struct-m2f)
 - [Modern C++: `std::optional`](https://builtin.com/articles/stdoptional)
+- [Modern C++: Variadic Templates](https://dev.to/delta456/modern-c-variadic-templates-16nn)
